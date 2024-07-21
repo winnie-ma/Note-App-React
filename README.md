@@ -1,20 +1,20 @@
-# Notes App.
+## Notes App.
 
-## Tech stack: React, MUI
+### Tech stack: React, MUI
 
-## React: useEffect, useState, props
+### React: useEffect, useState, props
 
-## Others: MUI, localStorage, uuid
+### Others: MUI, localStorage, uuid
 
-## Links and screenshots
+### Links and screenshots
 
 [Github](https://github.com/winnie-ma/Note-App-React)
 
-![image](https://github.com/winnie-ma/src/assets/responsive_1)
+![image](https://github.com/winnie-ma/Note-App-React/src/assets/responsive_1)
 
-![image](https://github.com/winnie-ma/src/assets/responsive_2)
+![image](https://github.com/winnie-ma/Note-App-React/src/assets/responsive_2)
 
-![image](https://github.com/winnie-ma/src/assets/responsive_3)
+![image](https://github.com/winnie-ma/Note-App-React/src/assets/responsive_3)
 
 ### Install dependencies and dev dependency using
 
