@@ -1,10 +1,22 @@
 ## Notes App.
 
-### Tech stack: React, MUI
+### Tech stack
 
-### React: useEffect, useState, props
+- React
+- MUI
+- TypeScript
 
-### Others: MUI, localStorage, uuid
+### React
+
+- useEffect
+- useState
+- props
+
+### Others
+
+- MUI
+- localStorage
+- uuid
 
 ### Install dependencies and dev dependency using
 
