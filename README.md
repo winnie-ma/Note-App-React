@@ -1,8 +1,29 @@
-# React + Vite
+# Notes App.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech stack: React, MUI
 
-Currently, two official plugins are available:
+## React: useEffect, useState, props
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Others: MUI, localStorage, uuid
+
+## Links and screenshots
+
+[Github](https://github.com/winnie-ma/Note-App-React)
+
+![image](https://github.com/winnie-ma/src/assets/responsive_1)
+
+![image](https://github.com/winnie-ma/src/assets/responsive_2)
+
+![image](https://github.com/winnie-ma/src/assets/responsive_3)
+
+### Install dependencies and dev dependency using
+
+```bash
+npm install
+```
+
+### Start the app locally using
+
+```bash
+npm run dev
+```
