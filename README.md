@@ -10,11 +10,11 @@
 
 [Github](https://github.com/winnie-ma/Note-App-React)
 
-![image](https://github.com/winnie-ma/Note-App-React/src/assets/responsive_1)
+![Screenshot 1](assets/responsive_1.png)
 
-![image](https://github.com/winnie-ma/Note-App-React/src/assets/responsive_2)
+![Screenshot 2](assets/responsive_2.png)
 
-![image](https://github.com/winnie-ma/Note-App-React/src/assets/responsive_3)
+![Screenshot 3](assets/responsive_3.png)
 
 ### Install dependencies and dev dependency using
 
